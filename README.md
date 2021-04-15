@@ -2,5 +2,5 @@
 
 ```
 npm i
-node index
+node index.js
 ```
